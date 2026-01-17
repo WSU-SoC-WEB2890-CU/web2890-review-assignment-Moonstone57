@@ -4,6 +4,30 @@
 .menu {
   @include gradient;
 
+  button{
+    color: $primary;
+  }
+  
+  img{
+        max-height: 30%;
+        max-width: 30%;
+
+        @include media-breakpoint-up(md) {
+          max-height: 30%;
+          max-width: 30%;
+        }
+
+        @include media-breakpoint-up(lg) {
+          max-height: 150%;
+          max-width: 150%;
+        }
+
+        @include media-breakpoint-up(lg) {
+          max-height: 50%;
+          max-width: 50%;
+        }
+      }
+
   li {
     padding: 0 0.7rem;
 
@@ -12,13 +36,11 @@
       padding: 0 0.7rem;
       text-transform: capitalize;
       font-weight: 600;
-
+      
     }
 
     &:hover {
       color: $white;
     }
-
   }
-
 }

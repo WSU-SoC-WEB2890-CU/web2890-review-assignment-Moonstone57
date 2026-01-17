@@ -18,11 +18,10 @@
         line-height: 6rem;
 
         i {
-
           font-size: 6rem;
-          color: $orange;
-
+          color: $navy-light;
         }
+
       }
     }
   }
@@ -30,11 +29,11 @@
 
 .border-animation {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 6rem;
-  height: 6rem;
-  border: 0.55rem solid $white;
+  top: .2rem;
+  left: -.1rem;
+  width: 6.25rem;
+  height: 6.25rem;
+  border: 0.55rem solid $navy-light;
   border-radius: 50%;
   animation: pulse-border 1.5s linear infinite;
 
