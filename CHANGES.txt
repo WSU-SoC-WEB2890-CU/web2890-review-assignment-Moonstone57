@@ -1,1 +1,28 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+Navbar section
+    1. I removed the testimonials navigation items because I removed the testimonials section. 
+    2. I also added a logo to personalize the navbar. 
+    3. I changed the button in the navbar to email instead of a phone number because I am a    more effective communicator through email. Also, it is convient to have a written record of communication.
+
+Intro section
+    1. I changed the location of the animation around the arrow button so that it aligned more closely to the center. 
+
+Specializations section
+    1. I changed the name of the services section to the Specializations sections. I felt this made more sense where I am making a student portfolio. I changed the three categories to UX Design, Web Accessibility, and Programming as I felt that more aligned with the skills I am currently learning. I also felt these categories applied to the career I want in the future. 
+    2. I also changed all of the icons in this section to align more closely with my categories. I chose a person with a gear icon to represent UX Design because I feel like one of the major components of UX is creating functionality for users. I chose the universial design icon because I felt that it was a great representation of accessibility. I used the html code icon since it is very representative of the coding style I mainly use. 
+
+Latest work section
+    1. Since I do not currently have very many projects to display, I decided to limit the number of projects to 3.
+    2. Since I changed the amount of projects to 3, I decided to remove the filter buttons and filter titles from the project description. Where I had 3 projects and 2 of them were websites, I felt it was unneccecary to have the filter.
+    3. I also made it so there was a curved, transparent background that showed up behind the text to make it easier to read.
+
+Footer 
+    1. I removed the phone number from the contact box. I personally believe that it is unneccecary to give out my personal phone number in a portfolio. I am poor at picking up phone calls and I perfer the seperation from my personal communication to professional communication. 
+    2. There were 4 sections that were on the footer below the social icons. I decided that I did not have enough information to fill them. I also thought that the contact information was redundent as that information is already in the footer. I kept the section with the description and provided a place with my name and a brief description of me. I also changed the other section to projects and listed my 3 projects. 
+
+Testimonials section
+    1. I decided to remove this section as I have not done any work for customers. The only way I could use this section is if I made information up and I felt that wasn't a good idea for my portfolio. I replaced this section with a new section called project highlight. For this section I more thoroughly explained my most detailed project into more pieces.  
+
+Companies section
+    1. I also decided to remove the companies section. I made this decision because I did not have any sponsers or experience working with these companies. I did not want to misrepresent my experience. 

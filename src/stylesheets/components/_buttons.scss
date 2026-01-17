@@ -22,7 +22,7 @@
 
     i {
       color: $white;
-      font-size: 1rem;
+      font-size: 1.25rem;
       line-height: 2.5rem;
     }
 
@@ -33,7 +33,11 @@
     color: $white;
 
     span {
-      background-color: rgba($orange, 1.0);
+      background-color: rgba($gold, 1.0);
+    }
+
+    i{
+      color: $navy-dark;
     }
   }
 }
